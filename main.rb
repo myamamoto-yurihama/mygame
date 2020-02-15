@@ -1,5 +1,5 @@
 require 'dxruby'
 
 Window.loop do
- # master
+ # branch_b
 end
