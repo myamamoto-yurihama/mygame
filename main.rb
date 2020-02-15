@@ -1,5 +1,5 @@
 require 'dxruby'
 
 Window.loop do
- # これはコメントです。
+ # branch_b
 end
